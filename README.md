@@ -1,5 +1,5 @@
 # Project
-Project - 1
+## Project - 1
 <br>
 Supervised ML Model – Credit wise loan approval system
 <br/>
